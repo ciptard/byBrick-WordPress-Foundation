@@ -2,7 +2,7 @@
 	
 	<div class="row">
 		<div class="twelve columns">
-			<h1>Error 404 - Page Not Found</h1>
+			<h1><?php _e( "Error 404 - Page Not Found", "custom" ); ?></h1>
 		</div>
 	</div>
 	
