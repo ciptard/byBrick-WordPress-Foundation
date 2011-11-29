@@ -62,6 +62,9 @@
 
 	<!--
 	
+		byBrick WordPress Foundation by bybrick.se.
+		github.com/byBrick/byBrick-WordPress-Foundation
+		
 		Information on how to work Foundation from ZURB
 		can be found here: foundation.zurb.com/docs/
 	
